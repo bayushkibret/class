@@ -29,9 +29,13 @@ This Grade Management System is a comprehensive web application built with Next.
 
 1. Clone the repository:
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/bayushkibret/class.git
-git push -u origin main
+
+- git init
+- git add .
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/bayushkibret/class.git
+- git push -u origin main
+
+
+
